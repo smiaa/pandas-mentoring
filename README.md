@@ -1,7 +1,8 @@
-# Mentoring new pandas contributors (team 2019)
+# pandas-mentoring
 <img src="img/logo.jpeg" width="600" height="200"><br>
 
 List of the [GitHub](https://github.com) usernames of all the people interested in contributing to [pandas](https://github.com/pandas-dev/pandas):
+=======
 ## Partipants
 
 - [martinagvilas](https://github.com/martinagvilas)
